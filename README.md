@@ -3,7 +3,7 @@
 
 <img src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif" align="right" alt="coding" width="400">
 
-- Hi, This is [LeranEd an E-Learning Website](https://major-project-akash03.netlify.app/)
+- Hi, This is [LearnEd an E-Learning Website](https://major-project-akash03.netlify.app/)
 
 - This is [My portfolio](https://akash03-my-portfolio.netlify.app/)
 
