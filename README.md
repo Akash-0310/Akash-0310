@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash singh</h1>
 <h3 align="center">I'm Pasionate Front End Developer</h3>
 
-<img src="![image](https://github.com/Akash-0310/Akash-0310/assets/137917630/36e178f3-262e-4868-acfd-6d44d6fefa08)" align="right" alt="coding" width="400">
+<img src="[![image](https://github.com/Akash-0310/Akash-0310/assets/137917630/36e178f3-262e-4868-acfd-6d44d6fefa08)](https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif)" align="right" alt="coding" width="400">
 
 - Hi, This is [LeranEd an E-Learning Website](https://major-project-akash03.netlify.app/)
 
