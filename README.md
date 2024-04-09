@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash singh</h1>
-<h3 align="center">I'm a Pasionate Developer</h3>
+<h3 align="center">I'm a Passionate Developer</h3>
 
 <img src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif" align="right" alt="coding" width="400">
 
