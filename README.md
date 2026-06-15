@@ -5,9 +5,9 @@
 
 - This is [Moonlight Fashion](https://moonlight-fashion.vercel.app/)
 
-- This is [LearnEd an E-Learning Website](https://major-project-akash03.netlify.app/)
+- This is [My portfolio](https://www.akashs.site/)
 
-- This is [My portfolio](https://akash03-my-portfolio.netlify.app/)
+- This is [LearnEd an E-Learning Website](https://major-project-akash03.netlify.app/)
 
 - This is [RazorPay clone](https://razorpay-clone-akashsingh03.netlify.app/)
 
