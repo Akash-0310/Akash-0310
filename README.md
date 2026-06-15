@@ -5,11 +5,11 @@
 
 - This is [Moonlight Fashion](https://moonlight-fashion.vercel.app/)
 
+- This is [SimhealthAI](https://simhealth.co.uk/)
+
 - This is [My portfolio](https://www.akashs.site/)
 
-- This is [LearnEd an E-Learning Website](https://major-project-akash03.netlify.app/)
-
-- This is [RazorPay clone](https://razorpay-clone-akashsingh03.netlify.app/)
+- This is [Pixory](https://www.pixoryoffical.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
